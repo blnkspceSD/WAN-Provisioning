@@ -22,6 +22,10 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/ClownsharkBatwing/RES4LYF.git"
+    "https://github.com/yolain/ComfyUI-Easy-Use.git"
+    "https://github.com/city96/ComfyUI-GGUF.git"
+    "https://github.com/rgthree/rgthree-comfy.git"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git"
 )
 
 CHECKPOINT_MODELS=(
